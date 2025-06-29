@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I'm Alfatari Ramadhan
+## Hey there 👋
 
 ![Alfatari Ramadhan](img/github-header-image.png)
 
