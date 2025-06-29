@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## I'm Alfatari Ramadhan 👋
+
+![Alfatari Ramadhan](img/github-header-image.png)
+
 <!--
 **alfatari-ramadhan/alfatari-ramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
